@@ -1,1 +1,1 @@
-file1 newBranch
+file1 newBranch deleted
